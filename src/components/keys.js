@@ -1,1 +1,1 @@
-export const mapBoxToken = "pk.eyJ1IjoiZGl2eWFtZ295YWwiLCJhIjoiY2txZTR3cXp0MDRkMzJ2cXUwdmlzdnJhMCJ9.7MzxywKX2eOK3Ewk1PEj_Q";
+export const mapBoxToken = "pk.eyJ1IjoiZGl2eWFtZ295YWwiLCJhIjoiY2txZmJxNjc3MmJocDMybXZ1cDQ0cjBkcCJ9.AqDvkF4lnM0OgBlwEGdYiA";

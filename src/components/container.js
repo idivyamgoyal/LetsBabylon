@@ -63,7 +63,7 @@ export default class Container extends React.Component {
                 lng: longitude,
                 city: ''
             }, () => {
-                console.log(this.state.lat, this.state.lng);
+                // console.log(this.state.lat, this.state.lng);
                 map.flyTo({
                     center: [this.state.lng, this.state.lat],
                     essential: true
